@@ -1,0 +1,7 @@
+{
+  "eslint.validate": ["javascript", "javascriptreact", "typescript"],
+  "files.watcherExclude": {
+    "**/node_modules/*/**": false,
+    "**/node_modules/[!@]*/**/*": true
+  }
+}
